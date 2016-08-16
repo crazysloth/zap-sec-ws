@@ -1,0 +1,29 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# complie class
+target
+*.class
+
+# ide settings
+.settings
+.classpath
+.idea
+.projects
+*.iml
+
+# Others
+*.log
+log
+
+# Environment
+Thumbs.db
+.DS_Store
+
+# release
+release.properties
